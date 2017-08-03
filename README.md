@@ -1,7 +1,6 @@
 BITS Technologies Tutorial
 ---
 
-# Introduction
 The BITS Interchangable Technology System is an open source modular software stack that allows for rapid development of applications. It has built in authentication, module management, and IPC. BITS uses a number of modern open source technologies to minimize "on-boarding" time for developers. This tutorial lists the technologies used and links to the associated  documentation, tutorials, and codelabs.
 
 # When things go wrong
