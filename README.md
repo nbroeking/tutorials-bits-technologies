@@ -10,6 +10,7 @@ The BITS Interchangable Technology System is an open source modular software sta
 - [Stack Overflow](https://stackoverflow.com/)
 - Look to see if another module solves your problem
 - Look to see if BITS Base solves your problem
+- Now write a module to solve your problem
 
 # Technologies
 - [Node.js v6.10](https://nodejs.org/dist/latest-v6.x/docs/api/) ([github](https://github.com/nodejs/node))
